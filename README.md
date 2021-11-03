@@ -1,33 +1,3 @@
-Skip to content
-Search or jump to…
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@kmeawad 
-ShaimaaAliECE
-/
-lab2-kmeawad
-Private
-0
-00
-Code
-Issues
-Pull requests
-Actions
-Projects
-Security
-Insights
-Settings
-lab2-kmeawad/README.md
-@kmeawad
-kmeawad first commit
-Latest commit 8ab6920 6 hours ago
- History
- 1 contributor
-70 lines (38 sloc)  3.29 KB
-   
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
