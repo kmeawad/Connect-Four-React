@@ -1,7 +1,6 @@
 import './index.css';
 import React, {useState} from 'react';
 
-//test
 let color = 1, width = 5, height = 5; // if color is 1 then red, if color is 2 then yellow
 let yCounter = 0, rCounter = 0;
 
